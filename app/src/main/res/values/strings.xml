@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SampleConstraintLayout</string>
+    <string name="college_name">A.J.M.V Prasarak Samajache\nNew Arts, Commerce &amp; Science College\nAhmednagar</string>
+    <string name="dsc">Department of Computer Science</string>
+    <string name="form_for">Feedback Form for..</string>
+    <string name="student">Student</string>
+    <string name="admin">Admin</string>
+</resources>
